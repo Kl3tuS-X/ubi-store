@@ -5,6 +5,14 @@
 	font-family: sans-serif;
 }
 
+body{
+	background-image: url(../img/dzhojstik_kontroller_podsvetka_127832_3840x2400.jpg);
+	background-repeat: repeat-y;
+	background-size: auto;
+	background-position: center;
+	overflow-x: hidden;
+}
+
 .btn1{
 	background: rgba(0, 0, 0, .4); 
 	border: 1px solid #fff; 
@@ -73,4 +81,13 @@
 	margin-top: 10px;
 	font-size: 20px;
 	font-weight: 900;
+}
+
+.recom{
+	color: #000;
+	background: #fff;
+	padding: 8px;
+	border-radius: 10px;
+	margin-top: 20px;
+	border: none;
 }

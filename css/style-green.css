@@ -23,14 +23,14 @@ body{
 }
 
 .btn1:hover{
-	color: #000;
-	background: #E3F2FD;
+	color: #fff;
+	background: rgba(86,255,199, .7);
 	transition: 0.3s;
 	border: 1px solid;
 }
 
 .badge{
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(86,255,199, .5);
 }
 
 .h2{
@@ -56,11 +56,11 @@ body{
 }
 
 .content{
-	background:#303030;
+	background: rgba(86,255,255, .7);
 }
 
 .card-title{
-	color: #fff;
+	color: #000;
 }
 
 .content2{
@@ -88,8 +88,8 @@ body{
 }
 
 .recom{
-	color: #fff;
-	background: #282828;
+	color: #000;
+	background: #fff;
 	padding: 8px;
 	border-radius: 10px;
 	margin-top: 20px;
