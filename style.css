@@ -1,0 +1,218 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../img/dzhojstik_kontroller_podsvetka_127832_3840x2400.jpg);
+	background-repeat: repeat-y;
+	background-size: auto;
+	background-position: center;
+	overflow-x: hidden;
+}
+
+.btn1{
+	background: rgba(0, 0, 0, .4); 
+	border: 1px solid #fff; 
+	padding: 10px; color: #fff; 
+	border-radius:10px; 
+	margin-top: 10px;
+	transition: 0.3s;
+}
+
+.btn1:hover{
+	color: #000;
+	background: #E3F2FD;
+	transition: 0.3s;
+	border: 1px solid;
+}
+
+.badge{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.h2{
+	margin-top: 60px;
+	padding: 0;
+	color: #fff;
+	font-weight: 800;
+	text-align: center;
+}
+
+.card{
+	box-shadow: 10px 10px 20px 3px rgb(0, 0, 0);
+	transition: 0.1s;
+	border: 1px solid #404040;
+	margin-right: 10px;
+	margin-left: 10px;
+	height: 300px;
+}
+
+.card:hover{
+	transform: scale(1.1);
+	transition: 0.1s;
+}
+
+.content{
+	background:#303030;
+}
+
+.card-title{
+	color: #fff;
+}
+
+.content2{
+	margin-top: 100px;
+	border: 1px solid #404040;
+	box-shadow: 10px 10px 20px 3px rgb(0, 0, 0);
+	transition: 0.1s;
+}
+
+.content2:hover{
+	transform: scale(0.9);
+	transition: 0.1s;
+}
+
+.content2 h5{
+	font-size: 25px;
+}
+
+
+.h6{
+	color: #fff;
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.recom{
+	color: #fff;
+	background: #282828;
+	padding: 8px;
+	border-radius: 10px;
+	margin-top: 20px;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+      <div class="content2">
+  <div class="row g-0">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <video src="video/videoplayback.mp4" class="w-100" autoplay muted></video>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+      <div class="card-body card2">
+        <h5 class="card-title title1 d-inline-block">Stray</h5>
+        <a href="#" class="fa fa-play-circle" style="display: inline-block;  color: #fff; text-decoration: none; font-size:25px; margin-left: 10px;  border-radius:25px;"></a>
+        <p class="card-text text-muted">
+          Stray — видеоигра в жанре квест, разработанная студией BlueTwelve Studio и изданная компанией Annapurna Interactive. Игра вышла 19 июля 2022 года для Windows, PlayStation 4 и PlayStation 5, игра также входит в подписку PlayStation Plus Extra и Deluxe/Premium.
+          <br>
+          <br>
+        Platforms: PC, PS4, PS5, XBOX ONE, XBOX SERIES X|S</p>
+        <p class="card-text" style="color: #000;">(For PC)</p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="row">
+      <div class="content2">
+  <div class="row g-0">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <video src="video/forza.mp4" class="w-100" autoplay muted></video>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+      <div class="card-body card2">
+        <h5 class="card-title title1 d-inline-block">Forza Horizon 5</h5>
+        <a href="#" class="fa fa-play-circle" style="display: inline-block;  color: #fff; text-decoration: none; font-size:25px; margin-left: 10px;  border-radius:25px;"></a>
+        <p class="card-text text-muted">
+          Forza Horizon 5 — компьютерная игра 2021 года в жанре аркадного гоночного симулятора, разработанная Playground Games и изданная Xbox Game Studios. Игра была анонсирована в июне 2021 года на мероприятии E3 2021
+          <br>
+          <br>
+        Platforms: PC, XBOX ONE, XBOX SERIES X|S</p>
+        <p class="card-text" style="color: #000;">(For PC)</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+      <div class="content2">
+  <div class="row g-0">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <video src="video/Far Cry 6 - Official Reveal Trailer _ Ubisoft Forward.mp4" class="w-100" autoplay muted></video>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+      <div class="card-body card2">
+        <h5 class="card-title title1 d-inline-block">Far Cry 6</h5>
+        <a href="#" class="fa fa-play-circle" style="display: inline-block;  color: #fff; text-decoration: none; font-size:25px; margin-left: 10px;  border-radius:25px;"></a>
+        <p class="card-text text-muted">
+          Far Cry 6 — компьютерная игра в жанре шутера от первого лица и action-adventure, разработанная студией Ubisoft Toronto и изданная компанией Ubisoft. Является шестой основной игрой из одноимённой серии. 
+          <br>
+          <br>
+        Platforms: PC, PS4, PS5, XBOX ONE, XBOX SERIES X|S</p>
+        <p class="card-text" style="color: #000;">(For PC)</p>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
